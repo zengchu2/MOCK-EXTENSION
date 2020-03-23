@@ -5,4 +5,4 @@ SPARQL MOCK EXTENSION for OpenRefine
 Put this directory under /extensions/ directory of OpenRefine
 Run ./refine build
 
-# Preview 
+# Preview
